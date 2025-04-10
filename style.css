@@ -1,0 +1,13 @@
+/* Estilização opcional */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.card-title {
+    font-weight: bold;
+}
