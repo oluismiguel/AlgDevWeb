@@ -1,0 +1,28 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+    background-color: #f8f9fa; /* Cor de fundo suave */
+}
+
+h1, h2, h3, h4 {
+    color: red; /* Cor do texto dos cabeçalhos */
+}
+.h4-vermelho {
+    color: ;
+}
+
+.list-group-item {
+    transition: background-color 0.3s; /* Efeito de transição suave */
+}
+
+.list-group-item:hover {
+    background-color: #e9ecef; /* Cor de fundo ao passar o mouse */
+}
+
+footer {
+    background-color: #343a40; /* Cor de fundo do rodapé */
+    color: white; /* Cor do texto do rodapé */
+}
+
+footer p {
+    margin: 0; /* Remove margens do parágrafo no rodapé */
+}
